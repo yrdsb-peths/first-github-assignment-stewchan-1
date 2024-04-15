@@ -6,7 +6,7 @@ Do the following to Complete this assignment:
 
 2. Enter your First Name: Stewart
 
-3. Enter your favourite animal: Bunny
+3. Enter your favourite animal: Bunny and Bears
 
 4. Now click the green 'commit changes' button at the bottom.
 
